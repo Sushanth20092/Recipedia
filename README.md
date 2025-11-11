@@ -82,7 +82,4 @@ cd Recipedia
 4. Open your browser and visit the local URL shown (usually `http://localhost:5173`).
 
 
-
-✅ Just copy and paste this into a file named **`README.md`** at the root of your project.  
-Would you like me to also include a **“Preview”** section (with space for screenshots or demo links) at the top for when you deploy it later?
 ```
